@@ -1,1 +1,2 @@
 # bareksa
+"soal search data untuk soal nomor 4 dan 5 terjadi kebingungan. Di test case 'Capital Fixed Income Fund' tidak masuk ke soal yang telah dibuat. Untuk nomor 5, result yang ada di soal 'CIMB Equity Dana Fund' tidak terdapat didalam data'."
